@@ -1,16 +1,3 @@
-# brewer-app
+## About
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
+This app is built with vue.js, axios, vue2-leaflet, bootstrap 4, and sass. It is a small Vue app that shows the breweries in the map.
